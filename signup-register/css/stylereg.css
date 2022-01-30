@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	background-image: url(../image/lp1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ 
+
+.container {
+    width: 330px;
+    height: 580px;
+    border: 0px solid #000;
+    display: block;
+    margin: 36px auto;
+    padding: 52px;
+    background-color: #2fe580b3;
+}
+
+.registar-section h1 {
+	text-align: center;
+}
+.registar-section h3 {
+	text-align: left;
+    margin: 10px -10px;
+}
+
+.input label{
+    padding-left: 10px;
+}
+
+.input input {
+	width: 95%;
+    padding: 5px;
+    margin: 10px;
+    background: transparent;
+}
+
+.Sign-up {
+    margin: 0px auto;
+    text-transform: uppercase;
+    text-align: center;
+    width: 99px;
+    padding: 0px 22px;
+    box-shadow: darkgreen;
+    border: none;
+}
